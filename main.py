@@ -17,26 +17,3 @@ if ticket >= 3:
     total *= 0.9
 print("Итого к оплате ", int(total))
 
-
-
-# numbers = [5, 6, 7, 2, 8, 2,7]
-# even_list = [number % 2 == 0 for number in numbers]
-# answer = not all(even_list) and any(even_list)
-# print(answer)
-
-# M = [[i * j for j in range(1,11)] for i in range(1,11)]
-# print(M)
-
-
-
-
-# a = False
-# b = False
-# if a and b :
-#     print("Обе переменные истинные")
-#     print(a,b)
-# elif a or b :
-#     print("Одна из переменных истинная")
-#     print(a or b) # печать значения одной
-# else:
-#     print(a,b, "Обе переменные не истены")
